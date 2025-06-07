@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rajveer-2004
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on Full stack projects
 - 📫 How to reach me @rvs51101@gmail.com
 - 😄 Pronouns: he/him
